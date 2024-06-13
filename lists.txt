@@ -1,0 +1,154 @@
+
+1. **Calculator**: A basic calculator that performs simple arithmetic operations.
+2. **Counter App**: An app with increment and decrement buttons to keep track of a counter value.
+3. **Stopwatch**: A stopwatch with start, stop, and reset functionalities.
+4. **Timer**: A countdown timer where users can set a specific time and start the countdown.
+5. **Simple To-Do List**: A list where users can add and remove tasks.
+6. **Weather App**: Fetch and display current weather information for a given location.
+7. **BMI Calculator**: Calculate and display Body Mass Index based on user input (height and weight).
+8. **Random Quote Generator**: Display a new random quote each time a button is pressed.
+9. **Tip Calculator**: Calculate tip amount based on bill total and selected tip percentage.
+10. **Currency Converter**: Convert an amount from one currency to another using a fixed exchange rate.
+11. **Trivia Quiz**: A simple quiz app with multiple-choice questions.
+12. **Magic 8-Ball**: Simulate the magic 8-ball toy that answers yes/no questions.
+13. **Unit Converter**: Convert between different units of measurement (e.g., length, weight).
+14. **Flashcards**: Create a flashcard app to help with studying and memorization.
+15. **Password Generator**: Generate random secure passwords based on selected criteria.
+16. **Number Guessing Game**: A game where users guess a randomly generated number within a range.
+17. **Rock-Paper-Scissors Game**: Play the classic rock-paper-scissors game against the computer.
+18. **Simple Contact List**: Create and display a list of contacts with names and phone numbers.
+19. **Dice Roller**: Simulate rolling one or more dice and display the result.
+20. **Basic Shopping List**: Add and remove items from a shopping list.
+21. **Temperature Converter**: Convert temperatures between Celsius, Fahrenheit, and Kelvin.
+22. **Word Counter**: Count the number of words and characters in a given text input.
+23. **Palindrome Checker**: Check if a given word or phrase is a palindrome.
+24. **Simple Markdown Previewer**: Convert and display Markdown text as formatted HTML.
+25. **Pomodoro Timer**: Implement a Pomodoro technique timer with work and break intervals.
+26. **Age Calculator**: Calculate the age of a person based on their birthdate.
+27. **Grocery Price Calculator**: Calculate the total price of groceries based on item quantities and prices.
+28. **Simple Music Player**: Play, pause, and stop audio files.
+29. **Favorite Color Picker**: Allow users to select and save their favorite colors from a color picker.
+30. **Tic-Tac-Toe Game**: Implement the classic tic-tac-toe game.
+31. **Daily Journal**: A simple app for users to write and save daily journal entries.
+32. **Expense Tracker**: Track expenses by adding, editing, and deleting expense records.
+33. **Emoji Search**: Search and display emojis based on user input.
+34. **Random Joke Generator**: Fetch and display a random joke from an API.
+35. **Simple Habit Tracker**: Track daily habits with a simple check/uncheck mechanism.
+36. **Simple Quiz App**: Create a multiple-choice quiz with questions and answers.
+37. **Binary to Decimal Converter**: Convert binary numbers to decimal.
+38. **Loan Calculator**: Calculate loan payments based on principal, interest rate, and duration.
+39. **Simple Drawing App**: Allow users to draw on a canvas with basic drawing tools.
+40. **Prime Number Checker**: Check if a given number is a prime number.
+41. **Simple Alarm Clock**: Set and trigger alarms at specified times.
+42. **Random Color Generator**: Generate and display random colors on the screen.
+43. **Simple Recipe Book**: Save and display recipes with ingredients and instructions.
+44. **Random Fact Generator**: Fetch and display random facts.
+45. **Simple Voting App**: Vote for different options and display results.
+46. **Interest Calculator**: Calculate simple or compound interest based on user input.
+47. **Todo List with Priorities**: Create a todo list where tasks can be prioritized.
+48. **Daily Affirmations**: Display a new positive affirmation each day.
+49. **Simple Survey**: Create a basic survey form with multiple questions and display the results.
+50. **Typing Speed Test**: Measure and display typing speed (words per minute).
+51. **Binary to Hexadecimal Converter**: Convert binary numbers to hexadecimal.
+52. **Fibonacci Sequence Generator**: Generate and display the Fibonacci sequence up to a specified number.
+53. **Flashlight App**: Toggle the device's flashlight on and off.
+54. **Simple To-Do List with Categories**: Create a categorized to-do list.
+55. **Username Availability Checker**: Check if a username is available based on predefined criteria.
+56. **Simple Calculator with History**: A calculator that keeps a history of past calculations.
+57. **Temperature Log**: Log daily temperatures and display the history.
+58. **Remainder App**: Remind users about tasks or events at specified times.
+59. **Simple Chat App**: Basic messaging functionality (local, without backend).
+60. **Random Name Picker**: Pick a random name from a list of names.
+61. **Simple Currency Tracker**: Track and convert currencies based on a fixed rate.
+62. **Simple Job Application Tracker**: Keep track of job applications and their statuses.
+63. **Reading List**: Maintain a list of books to read with start and finish dates.
+64. **Habit Reminder**: Remind users to perform daily habits with checkboxes.
+65. **Simple Workout Tracker**: Log and display workouts and exercises.
+66. **Simple Countdown Timer**: Set multiple countdown timers for different tasks.
+67. **Daily Checklist**: Create a checklist of tasks to be completed each day.
+68. **Simple Task Timer**: Timer for tracking time spent on individual tasks.
+69. **Favorite Movies List**: List and rate favorite movies.
+70. **Gratitude Journal**: Log and display things users are grateful for each day.
+71. **Simple Goal Tracker**: Track progress towards personal goals.
+72. **Daily Water Intake Tracker**: Log and display daily water intake.
+73. **Simple Password Manager**: Store and display a list of passwords securely (without actual encryption for simplicity).
+74. **Mood Tracker**: Log and display daily moods using emojis.
+75. **Simple Recipe Finder**: Fetch and display recipes from a public API.
+76. **Daily Exercise Log**: Track daily exercise routines and times.
+77. **Simple Trivia Game**: A trivia game with a series of questions and answers.
+78. **Language Flashcards**: Create flashcards for learning a new language.
+79. **Simple Music Playlist**: Create and display a music playlist.
+80. **Favorite Quotes**: Save and display a list of favorite quotes.
+81. **Simple Unit Converter**: Convert between different units (e.g., length, weight).
+82. **Simple Travel Itinerary**: Plan and display travel itineraries.
+83. **Expense Categorizer**: Categorize expenses and display totals per category.
+84. **Simple Chore Tracker**: Track and manage household chores.
+85. **Simple Budget Tracker**: Track and display a personal budget.
+86. **Simple Meditation Timer**: Set a timer for meditation sessions with start and stop functionality.
+87. **Simple Mileage Tracker**: Track and log vehicle mileage.
+88. **Simple Personal Journal**: Write and store personal journal entries.
+89. **Recipe Ingredients List**: List and check off ingredients needed for recipes.
+90. **Simple Study Timer**: Timer for managing study sessions with breaks.
+91. **Favorite Podcasts**: List and display favorite podcasts with episode links.
+92. **Simple Contact Form**: A form to collect and submit contact details.
+93. **Favorite TV Shows**: List and track episodes of favorite TV shows.
+94. **Simple Crypto Tracker**: Track and display cryptocurrency prices.
+95. **Daily Step Tracker**: Log and display daily step count.
+96. **Simple Fitness Goals**: Track and display progress toward fitness goals.
+97. **Simple Movie Watchlist**: Create and display a list of movies to watch.
+98. **Meal Log**: Log and display daily meals and snacks.
+99. **Simple Plant Care Tracker**: Track watering and care schedules for plants.
+100. **Simple Car Maintenance Log**: Log and display car maintenance records.
+101. **Simple Craft Project Tracker**: Track and display progress on craft projects.
+102. **Daily Affirmations**: Display a new affirmation each day.
+103. **Simple Skin Care Tracker**: Track and log skin care routines and products.
+104. **Simple Weather Log**: Log and display daily weather conditions.
+105. **Daily Mood Journal**: Log and display daily mood entries.
+106. **Simple Packing List**: Create and check off packing lists for trips.
+107. **Simple Wedding Checklist**: Create and manage a wedding planning checklist.
+108. **Simple Charity Tracker**: Track and log charitable donations.
+109. **Simple Subscription Tracker**: Track and manage subscriptions.
+110. **Daily Reflection Journal**: Log and display daily reflections or thoughts.
+111. **Simple Cleaning Schedule**: Create and manage a cleaning schedule.
+112. **Simple Home Inventory**: Track and log home inventory items.
+113. **Simple Fishing Log**: Log and display fishing trips and catches.
+114. **Simple Hiking Log**: Log and display hiking trips and details.
+115. **Simple Camping Checklist**: Create and manage camping trip checklists
+ episodes of favorite TV shows.
+116. **Simple Fitness Goals**: Track and display progress toward fitness goals.
+117. **Simple Movie Watchlist**: Create and display a list of movies to watch.
+118. **Meal Log**: Log and display daily meals and snacks.
+119. **Simple Plant Care Tracker**: Track watering and care schedules for plants.
+120. **Simple Car Maintenance Log**: Log and display car maintenance records.
+121. **Simple Craft Project Tracker**: Track and display progress on craft projects.
+122. **Daily Affirmations**: Display a new affirmation each day.
+123. **Simple Skin Care Tracker**: Track and log skin care routines and products.
+124. **Simple Weather Log**: Log and display daily weather conditions.
+125. **Daily Mood Journal**: Log and display daily mood entries.
+126. **Simple Packing List**: Create and check off packing lists for trips.
+127. **Simple Wedding Checklist**: Create and manage a wedding planning checklist.
+128. **Simple Charity Tracker**: Track and log charitable donations.
+129. **Simple Subscription Tracker**: Track and manage subscriptions.
+130. **Daily Reflection Journal**: Log and display daily reflections or thoughts.
+131. **Simple Cleaning Schedule**: Create and manage a cleaning schedule.
+132. **Simple Home Inventory**: Track and log home inventory items.
+133. **Simple Fishing Log**: Log and display fishing trips and catches.
+134. **Simple Hiking Log**: Log and display hiking trips and details.
+135. **Simple Camping Checklist**: Create and manage camping trip checklists.
+136. **Simple Event Countdown**: Countdown to important events or dates.
+137. **Simple DIY Project Tracker**: Track and log progress on DIY projects.
+138. **Simple Baking Log**: Log and display baking recipes and results.
+139. **Simple Gift List**: Track gift ideas and purchases.
+140. **Simple Comic Book Collection**: Track and display comic book collections.
+141. **Simple Gaming Log**: Track and log video game playtime and achievements.
+142. **Simple Language Practice**: Track and log language practice sessions.
+143. **Simple Holiday Planner**: Plan and display holiday itineraries and activities.
+144. **Simple Music Practice Log**: Track and log music practice sessions.
+145. **Simple Knitting Project Tracker**: Track and display knitting project progress.
+146. **Simple Gardening Log**: Track and log gardening activities and plant growth.
+147. **Simple Bike Ride Log**: Log and display bike rides and routes.
+148. **Simple Astronomy Log**: Log and display stargazing sessions and observations.
+149. **Simple Sewing Project Tracker**: Track and display sewing project progress.
+150. **Simple Photography Log**: Track and log photography sessions and locations.
+
+These additional project ideas focus on applying React Native logic, state management, and basic functionalities, providing ample opportunities to practice and improve your skills.
